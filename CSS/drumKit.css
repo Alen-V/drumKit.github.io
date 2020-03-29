@@ -5,7 +5,10 @@ body {
 }
 
 .container {
-    margin-top: 3em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -80%);
 }
 
 .keys {
